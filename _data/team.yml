@@ -2,7 +2,7 @@
 
 - name: Turanga Leela
   status: former
-  duration: 2020-2023
+  duration: 
   #role: Captain
   description: >
     Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
@@ -10,7 +10,7 @@
 
 - name: Professor Hubert J. Farnsworth
   status: current
-  duration: 2020
+  duration: 
   role: PhD
   image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
   description: >
