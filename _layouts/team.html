@@ -81,10 +81,10 @@ description: Template for team page.
 	{% endif %}
 {% endfor %}
 
-{{ content }}
 <article>
 	Doctoral Candidates
 </article>
+{{ content }}
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "PhD" %}
