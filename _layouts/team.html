@@ -13,7 +13,7 @@ description: Template for team page.
 </article>
 {{ content }}
 {% for member in team %}
-	{% if member.status %}
+	{% if member.status == "current" %}
 		<div class="d-flex team-member">
 			<div class="flex-shrink-0 me-3">
 				{% if member.image %}
