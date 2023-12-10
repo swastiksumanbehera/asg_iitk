@@ -10,14 +10,14 @@
    name: Dr. Pradeep K. Gautam
    status: former
    duration: 2021 to 2022 (Institute Post-Doctoral Fellow)
-   image:
+   #image:
    description: >
    
    name: Ms. Sonal Tiwari
    status: current
    role: PhD
    duration: Since 2020
-   image:
+   #image:
    description: >
     Research Topic: Understanding the deformation of target rocks around crater cavity due to hypervelocity meteoritic impact.
    
@@ -25,7 +25,7 @@
    status: current
    role: PhD
    duration: Since 2021
-   image:
+   #image:
    description: >
     Research Topic: Origin and emplacement of impact melt at Dhala Impact structure, India.
    
@@ -33,7 +33,7 @@
    status: current
    role: PhD
    duration: Since 2021
-   image:
+   #image:
    description: >
     Research Topic: Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
    
@@ -41,7 +41,7 @@
    status: current
    role: PhD
    duration: Since 2022
-   image:
+   #image:
    description: >
     Research Topic: A rock magnetic approach to investigate the evolution of the Ramgarh impact structure, Rajasthan.
 - 
@@ -49,19 +49,19 @@
    status: current
    role: PhD
    duration: Since 2023
-   image:
+   #image:
    description: >
    
    name: Mr. Sachin Kumar
    status: former
    duration: 2021 to 2022 (MTech thesis)
-   image:
+   #image:
    description: >
    
    name: Mr. Earth Sugandhi
    status: former
    duration: 2022 to 2023 (MS thesis), 2021 (UG Project)
-   image:
+   #image:
    description: >
     MS thesis: Effect of Hugoniot parameters on jet velocity for natural hypervelocity impacts.
     UG Project: Jetting velocities for natural meteoritic impacts
@@ -70,7 +70,7 @@
    status: current
    role: Master
    duration: Since 2023 (MTech thesis)
-   image:
+   #image:
    description: >
     MTech thesis: The evolution of Lonar ejecta blanket through time.
    
@@ -78,35 +78,35 @@
    status: current
    role: Master
    duration: Since 2023 (MS thesis), 2022 (UG Project)
-   image:
+   #image:
    description: >
     MS thesis: Strain quantification in weakly shocked Taunus quartzite.
    
    name: Ms. Soumya Misra
    status: former
    duration: 2022 to 2023 (UG Project)
-   image:
+   #image:
    description: >
     UG Project: Microfracture identification in images from optical microscope using ML.
    
    name: Ms. Bipasha Jadhav
    status: former
    duration: 2022 to 2023 (UG Project)
-   image:
+   #image:
    description: >
     UG Project: Thermodynamic modelling of Jetting, during natural hypervelocity impacts.
    
    name: Mr. Hitesh Anuragiri
    status: former
    duration: 2022 to 2023 (UG Project)
-   image:
+   #image:
    description: >
     UG Project: High resolution, boots on ground mapping of the Lonar ejecta blanket.
     
    name: Mr. Ayush Gupta
    status: former
    duration: 2022 to 2023 (UG Project)
-   image:
+   #image:
    description: >
     UG Project: High resolution, boots on ground mapping of the Lonar ejecta blanket.
 
