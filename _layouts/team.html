@@ -82,6 +82,9 @@ description: Template for team page.
 {% endfor %}
 
 {{ content }}
+<article>
+	Doctoral Candidates
+</article>
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "PhD" %}
