@@ -12,13 +12,9 @@ description: Template for team page.
 	Current Members
 </article>
 
-<article>
-	Post-Doctoral Fellows
-</article>
-
 {{ content }}
 <article>
-	Post-Doctoral
+	Post-Doctoral Fellows
 </article>
 {% for member in team %}
 	{% if member.status == "current" %}
@@ -85,11 +81,10 @@ description: Template for team page.
 	{% endif %}
 {% endfor %}
 
+{{ content }}
 <article>
 	PhD candidates
 </article>
-
-{{ content }}
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "PhD" %}
@@ -155,11 +150,10 @@ description: Template for team page.
 	{% endif %}
 {% endfor %}
 
+{{ content }}
 <article>
 	Master's students
 </article>
-
-{{ content }}
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "MTech" %}
@@ -225,11 +219,10 @@ description: Template for team page.
 	{% endif %}
 {% endfor %}
 
+{{ content }}
 <article>
 	Undergraduate students
 </article>
-
-{{ content }}
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "UG" %}
