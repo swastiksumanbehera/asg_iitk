@@ -3,18 +3,36 @@ layout: default
 description: Template for team page.
 ---
 
+<article>
+	<style>
+		h11 {
+			 color: red;
+			 text-align: center;
+		}
+		
+		h12 {
+			 color: green;
+			 text-align: left;
+		}
+	</style>
+</article>
+
 {% if page.team and site.data[page.team] %}
   {% assign team = site.data[page.team] %}
 {% elsif site.data.team %}
   {% assign team = site.data.team %}
 {% endif %}
 <article>
-	Current Members
+	<h11>
+		Current Members
+	</h11>
 </article>
 
 {{ content }}
 <article>
-	Post-Doctoral Fellows
+	<h12>
+		Post-Doctoral Fellows
+	</h12>
 </article>
 {% for member in team %}
 	{% if member.status == "current" %}
@@ -84,7 +102,9 @@ description: Template for team page.
 
 {{ content }}
 <article>
-	Doctoral Candidates
+	<h12>
+		Doctoral Candidates
+	</h12>
 </article>
 {% for member in team %}
 	{% if member.status == "current" %}
@@ -154,7 +174,9 @@ description: Template for team page.
 
 {{ content }}
 <article>
-	Master's Students
+	<h12>
+		Master's Students
+	</h12>
 </article>
 {% for member in team %}
 	{% if member.status == "current" %}
@@ -224,7 +246,9 @@ description: Template for team page.
 
 {{ content }}
 <article>
-	Undergraduate Students
+	<h12>
+		Undergraduate Students
+	</h12>
 </article>
 {% for member in team %}
 	{% if member.status == "current" %}
@@ -293,7 +317,9 @@ description: Template for team page.
 {% endfor %}
 
 <article>
-	Past Members
+	<h11>
+		Past Members
+	</h11>
 </article>
 
 {{ content }}
