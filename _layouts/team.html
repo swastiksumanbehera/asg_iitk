@@ -82,9 +82,6 @@ description: Template for team page.
 {% endfor %}
 
 {{ content }}
-<article>
-	PhD candidates
-</article>
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "PhD" %}
@@ -151,9 +148,6 @@ description: Template for team page.
 {% endfor %}
 
 {{ content }}
-<article>
-	Master's students
-</article>
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "MTech" %}
@@ -220,9 +214,6 @@ description: Template for team page.
 {% endfor %}
 
 {{ content }}
-<article>
-	Undergraduate students
-</article>
 {% for member in team %}
 	{% if member.status == "current" %}
 		{% if member.role == "UG" %}
