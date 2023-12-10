@@ -1,1 +1,1 @@
-# Applied Structural Geology group at IIT Kanpur
+# Applied Structural Geology group
