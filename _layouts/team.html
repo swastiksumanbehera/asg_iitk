@@ -28,6 +28,7 @@ description: Template for team page.
 				<div>
 					<h5 id="{{ member.name | strip | url_encode }}">
 						{{ member.name }}
+						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
 					{{ member.description | markdownify }}
@@ -97,6 +98,7 @@ description: Template for team page.
 				<div>
 					<h5 id="{{ member.name | strip | url_encode }}">
 						{{ member.name }}
+						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
 					{{ member.description | markdownify }}
@@ -166,6 +168,7 @@ description: Template for team page.
 				<div>
 					<h5 id="{{ member.name | strip | url_encode }}">
 						{{ member.name }}
+						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
 					{{ member.description | markdownify }}
@@ -235,6 +238,7 @@ description: Template for team page.
 				<div>
 					<h5 id="{{ member.name | strip | url_encode }}">
 						{{ member.name }}
+						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
 					{{ member.description | markdownify }}
@@ -304,6 +308,7 @@ description: Template for team page.
 			<div>
 				<h5 id="{{ member.name | strip | url_encode }}">
 					{{ member.name }}
+					<small class="text-muted">| {{ member.duration }}</small>
 				</h5>
 
 				{{ member.description | markdownify }}
