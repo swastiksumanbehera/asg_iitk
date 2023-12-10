@@ -1,114 +1,115 @@
 # Project team members listed below will appear on the /team page
 
-   name: Dr. Gaurav Joshi
+  -name: Dr. Gaurav Joshi
    status: current
    role: Post-doc
    duration: Since 2021
-   image:
-   description: >
+   #image:
+   #description: >
    
-   name: Dr. Pradeep K. Gautam
+  -name: Dr. Pradeep K. Gautam
    status: former
    duration: 2021 to 2022 (Institute Post-Doctoral Fellow)
    #image:
-   description: >
+   #description: >
    
-   name: Ms. Sonal Tiwari
+  -name: Ms. Sonal Tiwari
    status: current
    role: PhD
    duration: Since 2020
    #image:
    description: >
-    Research Topic: Understanding the deformation of target rocks around crater cavity due to hypervelocity meteoritic impact.
+    Research Topic- Understanding the deformation of target rocks around crater cavity due to hypervelocity meteoritic impact.
    
-   name: Mr. Ambrish K. Pandey
+  -name: Mr. Ambrish K. Pandey
    status: current
    role: PhD
    duration: Since 2021
    #image:
    description: >
-    Research Topic: Origin and emplacement of impact melt at Dhala Impact structure, India.
+    Research Topic- Origin and emplacement of impact melt at Dhala Impact structure, India.
    
-   name: Mr. Pradyut Phukon
+  -name: Mr. Pradyut Phukon
    status: current
    role: PhD
    duration: Since 2021
    #image:
    description: >
-    Research Topic: Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
+    Research Topic- Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
    
-   name: Mr. Gourab Dey
+  -name: Mr. Gourab Dey
    status: current
    role: PhD
    duration: Since 2022
    #image:
    description: >
-    Research Topic: A rock magnetic approach to investigate the evolution of the Ramgarh impact structure, Rajasthan.
+    Research Topic- A rock magnetic approach to investigate the evolution of the Ramgarh impact structure, Rajasthan.
 - 
-   name: Mr. Swastik Suman Behera
+  -name: Mr. Swastik Suman Behera
    status: current
    role: PhD
    duration: Since 2023
    #image:
-   description: >
+   #description: >
    
-   name: Mr. Sachin Kumar
+  -name: Mr. Sachin Kumar
    status: former
    duration: 2021 to 2022 (MTech thesis)
    #image:
    description: >
+    MTech thesis- Quantification of damage due to shock wave using x-ray diffraction.
    
-   name: Mr. Earth Sugandhi
+  -name: Mr. Earth Sugandhi
    status: former
    duration: 2022 to 2023 (MS thesis), 2021 (UG Project)
    #image:
    description: >
-    MS thesis: Effect of Hugoniot parameters on jet velocity for natural hypervelocity impacts.
-    UG Project: Jetting velocities for natural meteoritic impacts
+    MS thesis- Effect of Hugoniot parameters on jet velocity for natural hypervelocity impacts.
+    UG Project- Jetting velocities for natural meteoritic impacts
    
-   name: Mr. Harun Rashid
+  -name: Mr. Harun Rashid
    status: current
    role: Master
    duration: Since 2023 (MTech thesis)
    #image:
    description: >
-    MTech thesis: The evolution of Lonar ejecta blanket through time.
+    MTech thesis- The evolution of Lonar ejecta blanket through time.
    
-   name: Mr. Rajit Das
+  -name: Mr. Rajit Das
    status: current
    role: Master
    duration: Since 2023 (MS thesis), 2022 (UG Project)
    #image:
    description: >
-    MS thesis: Strain quantification in weakly shocked Taunus quartzite.
+    MS thesis- Strain quantification in weakly shocked Taunus quartzite.
    
-   name: Ms. Soumya Misra
+  -name: Ms. Soumya Misra
    status: former
    duration: 2022 to 2023 (UG Project)
    #image:
    description: >
-    UG Project: Microfracture identification in images from optical microscope using ML.
+    UG Project- Microfracture identification in images from optical microscope using ML.
    
-   name: Ms. Bipasha Jadhav
+  -name: Ms. Bipasha Jadhav
    status: former
    duration: 2022 to 2023 (UG Project)
    #image:
    description: >
-    UG Project: Thermodynamic modelling of Jetting, during natural hypervelocity impacts.
+    UG Project- Thermodynamic modelling of Jetting, during natural hypervelocity impacts.
    
-   name: Mr. Hitesh Anuragiri
+  -name: Mr. Hitesh Anuragiri
    status: former
    duration: 2022 to 2023 (UG Project)
    #image:
    description: >
-    UG Project: High resolution, boots on ground mapping of the Lonar ejecta blanket.
+    UG Project- High resolution, boots on ground mapping of the Lonar ejecta blanket.
     
-   name: Mr. Ayush Gupta
+  -name: Mr. Ayush Gupta
    status: former
    duration: 2022 to 2023 (UG Project)
    #image:
    description: >
-    UG Project: High resolution, boots on ground mapping of the Lonar ejecta blanket.
+    UG Project- High resolution, boots on ground mapping of the Lonar ejecta blanket.
 
 #name: Dr. Gourav Joshi
   #status: current
