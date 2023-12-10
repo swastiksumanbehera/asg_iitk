@@ -1,7 +1,7 @@
 ---
 layout: team
-title: Team
-description: Who we are
+title: Research Team
+#description: 
 permalink: /team/
 ---
 
