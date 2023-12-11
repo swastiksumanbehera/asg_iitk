@@ -99,6 +99,11 @@ description: Template for team page.
 								<a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
 							</li>
 						{% endif %}
+						
+						{% if member.linkedin %}
+							<li class="list-inline-item">
+								<a href="https://www.linkedin.com/in/{{ member.linkedin }}/"><i class="fab fa-linkedin"></i></a>
+						{% endif %}
 					</ul>
 				</div>
 			</div>
