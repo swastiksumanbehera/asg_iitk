@@ -4,9 +4,15 @@
   status: current
   role: Post-doc
   duration: Since 2021
+  orcid: 0000-0002-9016-7706
+  researchgate: Gaurav-Joshi-19
+  googlescholar: ESRviwgAAAAJ&hl=en
+  email: gjoshi@iitk.ac.in
+  qualification: PhD, 2019 (University of Lucknow)
   #image:
-  #description: >
-   
+  description: >
+    I utilize investigative techniques such as field studies, structural analysis, optical and electron microscopy, magnetic fabrics, and magnetic mineralogy to understand the structural evolution of impact craters and various thrusts and fault systems in the Himalayas.
+
 - name: Dr. Pradeep K. Gautam
   status: former
   duration: 2021 to 2022 (Institute Post-Doctoral Fellow)
