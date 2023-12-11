@@ -70,7 +70,7 @@
   role: PhD
   duration: Since 2022
   #image:
-  description: >
+  researchT: >
     Research Topic: A rock magnetic approach to investigate the evolution of the Ramgarh impact structure, Rajasthan.
 - 
 - name: Mr. Swastik Suman Behera
@@ -79,32 +79,34 @@
   duration: Since 2023
   researchgate: Swastik-Behera-2
   googlescholar: A32cSrsAAAAJ&hl=en
-  
+  linkedin: swastik1999/
+  email: bswastik23@iitk.ac.in
+  qualification: BS-MS, 2022 (IISER Kolkata)
+  github: swastiksumanbehera
   #image:
-  description: >
-    BS-MS, 2022 (IISER Kolkata)
+  #description: >
+    
    
 - name: Mr. Sachin Kumar
   status: former
   duration: 2021 to 2022 (MTech thesis)
   #image:
-  description: >
+  researchT: >
     MTech thesis: Quantification of damage due to shock wave using x-ray diffraction.
    
 - name: Mr. Earth Sugandhi
   status: former
   duration: 2022 to 2023 (MS thesis), 2021 (UG Project)
   #image:
-  description: >
+  researchT: >
     MS thesis: Effect of Hugoniot parameters on jet velocity for natural hypervelocity impacts.
-    UG Project: Jetting velocities for natural meteoritic impacts
    
 - name: Mr. Harun Rashid
   status: current
   role: Master
   duration: Since 2023 (MTech thesis)
   #image:
-  description: >
+  researchT: >
     MTech thesis: The evolution of Lonar ejecta blanket through time.
    
 - name: Mr. Rajit Das
@@ -112,35 +114,35 @@
   role: Master
   duration: Since 2023 (MS thesis), 2022 (UG Project)
   #image:
-  description: >
+  researchT: >
     MS thesis: Strain quantification in weakly shocked Taunus quartzite.
   
 - name: Ms. Soumya Misra
   status: former
   duration: 2022 to 2023 (UG Project)
   #image:
-  description: >
+  researchT: >
     UG Project: Microfracture identification in images from optical microscope using ML.
   
 - name: Ms. Bipasha Jadhav
   status: former
   duration: 2022 to 2023 (UG Project)
   #image:
-  description: >
+  researchT: >
     UG Project: Thermodynamic modelling of Jetting, during natural hypervelocity impacts.
   
 - name: Mr. Hitesh Anuragiri
   status: former
   duration: 2022 to 2023 (UG Project)
   #image:
-  description: >
+  researchT: >
     UG Project: High resolution, boots on ground mapping of the Lonar ejecta blanket.
     
 - name: Mr. Ayush Gupta
   status: former
   duration: 2022 to 2023 (UG Project)
   #image:
-  description: >
+  researchT: >
     UG Project: High resolution, boots on ground mapping of the Lonar ejecta blanket.
 
 #name: Dr. Gourav Joshi
