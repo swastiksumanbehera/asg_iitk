@@ -17,6 +17,7 @@
   status: current
   role: PhD
   duration: Since 2020
+  researchT: 
   #image:
   description: >
     Research Topic: Understanding the deformation of target rocks around crater cavity due to hypervelocity meteoritic impact.
@@ -39,10 +40,10 @@
   email: pradyut21@iitk.ac.in
   #image:
   qualification: MSc, 2020 (Dibrugarh University)
-  reserachT: Research Topic: Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
-  description: >
-    MSc, 2020 (Dibrugarh University)
-    Research Topic: Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
+  researchT: Research Topic: Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
+  #description: >
+   # MSc, 2020 (Dibrugarh University)
+   # Research Topic: Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
    
    
 - name: Mr. Gourab Dey
