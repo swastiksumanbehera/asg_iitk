@@ -137,16 +137,16 @@ description: Template for team page.
 
 					<body>
 						{% if member.qualification %}
-							{{ member.qualification }}
+							{{ member.qualification | markdownify }}
 						{% endif %}
 						{% if member.researchT %}
-							{{ member.researchT }}
+							{{ member.researchT | markdownify }}
 						{% endif %}
 						{% if member.MasterP %}
-							{{ member.MasterP }}
+							{{ member.MasterP | markdownify }}
 						{% endif %}
 						{% if member.UGP %}
-							{{ member.UGP }}
+							{{ member.UGP | markdownify }}
 						{% endif %}
 						{% if member.description %}
 							{{ member.description | markdownify }}
