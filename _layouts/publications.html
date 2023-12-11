@@ -17,10 +17,6 @@ description: Template for publications page.
 	</style>
 </article>
 
-.inline-block { 
-  display: inline-block; 
-} 
-
 {% if page.publications and site.data[page.publications] %}
   {% assign publications = site.data[page.publications] %}
 {% elsif site.data.publications %}
@@ -35,10 +31,10 @@ description: Template for publications page.
 </article>
 {% for member in publications %}
 	{% if member.status == "peerrev" %}
-		<div class="inline-block">
+		<a>
 			{{ member.number }}
 			{{ member.details }}
-		</div>
+		</a>
 		{% if member.doi %}
 			<a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
 		{% endif %}
