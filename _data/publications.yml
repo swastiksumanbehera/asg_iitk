@@ -1,37 +1,9 @@
 # Project team members listed below will appear on the /team page
 
-- name: Dr. Gaurav Joshi
-  status: current
-  role: Post-doc
-  duration: Since 2021
-  orcid: 0000-0002-9016-7706
-  researchgate: Gaurav-Joshi-19
-  googlescholar: ESRviwgAAAAJ&hl=en
-  email: gjoshi@iitk.ac.in
-  qualification: Ph.D., 2019 (University of Lucknow)
-  image: assets/theme/images/gauravJ.jpg
-  description: >
-    I utilize investigative techniques such as field studies, structural analysis, optical and electron microscopy, magnetic fabrics, and magnetic mineralogy to understand the structural evolution of impact craters and various thrusts and fault systems in the Himalayas.
-
-- name: Dr. Pradeep K. Gautam
-  status: former
-  duration: 2021 to 2022 (Institute Post-Doctoral Fellow)
-  image: assets/theme/images/pradeepG.jpeg
-  description: >
-    currently Post-Doctoral fellow at Colorado School of Mines, Golden, CO, USA
-   
-- name: Ms. Sonal Tiwari
-  status: current
-  role: PhD
-  duration: Since 2020
-  image: assets/theme/images/sonalT.jpg
-  qualification: M.Sc., 2018 (University of Lucknow)
-  orcid: 0000-0002-5228-0345
-  researchgate: Sonal_Tiwari5
-  email: sonaljp20@iitk.ac.in
-  linkedin: sonal-tiwari-b880041ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-  researchT: >
-    Research Topic: Understanding the deformation of target rocks around crater cavity due to hypervelocity meteoritic impact.
+- status: peerrev
+  details: 36. Berndt C., Planke S., Alvarez Zarikian C.A., Frieling J., Millett J.M., Jones M.T., Brinkhuis H., Bünz S., Svensen H.H., Longman J., Scherer R.P., Karstens J., Manton B., Nelissen M., Huismans R.S., **Agarwal A.**, Andrews G.D.M., Betlem P., Bhattacharya J., Chatterjee S., Christopoulou M., Vincent J. Clementi, Ferré E.C., Filina Y. Irina, Guo P., Harper D.T., Lambart S., Mohn G., Nakaoka R., Tegner C., Varela N., Wang M., Xu W., Yager S.L. (2023). Shallow-water hydrothermal venting linked to the Paleocene Eocene Thermal Maximum. Nature geoscience.
+  doi: 10.1038/s41561-023-01246-8
+  
 
 #name: Dr. Gourav Joshi
   #status: current
