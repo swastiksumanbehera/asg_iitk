@@ -8,7 +8,7 @@
   researchgate: Gaurav-Joshi-19
   googlescholar: ESRviwgAAAAJ&hl=en
   email: gjoshi@iitk.ac.in
-  qualification: PhD, 2019 (University of Lucknow)
+  qualification: Ph.D., 2019 (University of Lucknow)
   #image:
   description: >
     I utilize investigative techniques such as field studies, structural analysis, optical and electron microscopy, magnetic fabrics, and magnetic mineralogy to understand the structural evolution of impact craters and various thrusts and fault systems in the Himalayas.
@@ -23,17 +23,29 @@
   status: current
   role: PhD
   duration: Since 2020
-  researchT: 
-  #image:
-  description: >
+  qualification: M.Sc., 2018 (University of Lucknow)
+  orcid: 0000-0002-5228-0345
+  researchgate: Sonal_Tiwari5
+  email: sonaljp20@iitk.ac.in
+  linkedin: sonal-tiwari-b880041ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  researchT: >
     Research Topic: Understanding the deformation of target rocks around crater cavity due to hypervelocity meteoritic impact.
+  #image:
+  #description: >
+    
    
 - name: Mr. Ambrish K. Pandey
   status: current
   role: PhD
   duration: Since 2021
+  qualification: M.Tech., 2021 (IIT Kanpur)
+  orcid: 0009-0002-1834-3303
+  #researchgate:
+  email: ambrish21@iitk.ac.in
+  linkedin: ambrish-pandey-25b919143/
+  twitter: Ambrishpandeyy
   #image:
-  description: >
+  researchT: >
     Research Topic: Origin and emplacement of impact melt at Dhala Impact structure, India.
    
 - name: Mr. Pradyut Phukon
