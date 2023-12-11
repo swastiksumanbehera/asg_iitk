@@ -16,8 +16,9 @@
 - name: Dr. Pradeep K. Gautam
   status: former
   duration: 2021 to 2022 (Institute Post-Doctoral Fellow)
-  #image:
-  #description: >
+  image: assets/theme/images/pradeepG.jpg
+  description: >
+    currently Post-Doctoral fellow at Colorado School of Mines, Golden, CO, USA
    
 - name: Ms. Sonal Tiwari
   status: current
@@ -45,7 +46,7 @@
   email: ambrish21@iitk.ac.in
   linkedin: ambrish-pandey-25b919143/
   twitter: Ambrishpandeyy
-  #image:
+  image: assets/theme/images/ambrishP.jpg
   researchT: >
     Research Topic: Origin and emplacement of impact melt at Dhala Impact structure, India.
    
@@ -57,7 +58,7 @@
   researchgate: Pradyut-Phukon
   googlescholar: U-ei6l8AAAAJ&hl=en
   email: pradyut21@iitk.ac.in
-  #image:
+  image: assets/theme/images/pradyutP.jpg
   qualification: MSc, 2020 (Dibrugarh University)
   researchT: >
     Research Topic: Flow sense and emplacement setting of the Mid-Norwegian continental margin basalts.
@@ -86,14 +87,36 @@
   github: swastiksumanbehera
   image: assets/theme/images/swastikSB.jpg
   #description: >
-    
+
+- name: Mr. Raghvendra Shukla
+  status: former
+  duration: Joined 2020
+  image: assets/theme/images/raghwendraS.jpg
+  description: >
+    currently working as a scientist for Atomic Minerals Directorate (AMD) for Exploration and Research, Department of Atomic Energy (DAE) 
+
+- name: Mr. Suraj Pratap Singh
+  status: former
+  duration: Joined 2021
+  image: assets/theme/images/surajPS.jpg
+  description: >
+    currently working as a scientist for Atomic Minerals Directorate (AMD) for Exploration and Research, Department of Atomic Energy (DAE)
    
+- name: Mr. Ramakant Mishra
+  status: former
+  duration: Joined 2022
+  image: assets/theme/images/ramakantM.jpg
+  description: >
+    currently working as a hydrogeologist for Central Ground Water Board (CGWB), Government of India (GOI) 
+
 - name: Mr. Sachin Kumar
   status: former
   duration: 2021 to 2022 (MTech thesis)
-  #image:
+  image: assets/theme/images/sachinK.jpg
   researchT: >
     MTech thesis: Quantification of damage due to shock wave using x-ray diffraction.
+  description: >
+    currently working in the Indian Railways
    
 - name: Mr. Earth Sugandhi
   status: former
