@@ -35,7 +35,7 @@
   duration: Since 2021
   orcid: 0000-0003-0030-4234
   researchgate: Pradyut-Phukon
-  googlescholar: U-ei6I8AAAAj&hl=en
+  googlescholar: U-ei6l8AAAAJ&hl=en
   email: pradyut21@iitk.ac.in
   #image:
   description: >
@@ -55,8 +55,11 @@
   status: current
   role: PhD
   duration: Since 2023
+  researchgate: Swastik-Behera-2
+  googlescholar: A32cSrsAAAAJ&hl=en
   #image:
-  #description: >
+  description: >
+    BS-MS, 2022 (IISER Kolkata)
    
 - name: Mr. Sachin Kumar
   status: former
