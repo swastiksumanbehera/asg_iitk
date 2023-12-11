@@ -49,11 +49,21 @@ description: Template for team page.
 						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
-					{{ member.qualification }}
-					{{ member.researchT }}
-					{{ member.MasterP }}
-					{{ member.UGP }}
-					{{ member.description | markdownify }}
+					{% if member.qualification %}
+						{{ member.qualification }}
+					{% endif %}
+					{% if member.researchT %}
+						{{ member.researchT }}
+					{% endif %}
+					{% if member.MasterP %}
+						{{ member.MasterP }}
+					{% endif %}
+					{% if member.UGP %}
+						{{ member.UGP }}
+					{% endif %}
+					{% if member.description %}
+						{{ member.description | markdownify }}
+					{% endif %}
 
 					<ul class="list-inline">
 						{% if member.orcid %}
@@ -125,11 +135,21 @@ description: Template for team page.
 						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
-					{{ member.qualification }}
-					{{ member.researchT }}
-					{{ member.MasterP }}
-					{{ member.UGP }}
-					{{ member.description | markdownify }}
+					{% if member.qualification %}
+						{{ member.qualification }}
+					{% endif %}
+					{% if member.researchT %}
+						{{ member.researchT }}
+					{% endif %}
+					{% if member.MasterP %}
+						{{ member.MasterP }}
+					{% endif %}
+					{% if member.UGP %}
+						{{ member.UGP }}
+					{% endif %}
+					{% if member.description %}
+						{{ member.description | markdownify }}
+					{% endif %}
 
 					<ul class="list-inline">
 						{% if member.orcid %}
@@ -201,11 +221,22 @@ description: Template for team page.
 						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
-					{{ member.qualification }}
-					{{ member.researchT }}
-					{{ member.MasterP }}
-					{{ member.UGP }}
-					{{ member.description | markdownify }}
+					{% if member.qualification %}
+						{{ member.qualification }}
+					{% endif %}
+					{% if member.researchT %}
+						{{ member.researchT }}
+					{% endif %}
+					{% if member.MasterP %}
+						{{ member.MasterP }}
+					{% endif %}
+					{% if member.UGP %}
+						{{ member.UGP }}
+					{% endif %}
+					{% if member.description %}
+						{{ member.description | markdownify }}
+					{% endif %}
+
 
 					<ul class="list-inline">
 						{% if member.orcid %}
@@ -277,11 +308,22 @@ description: Template for team page.
 						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
-					{{ member.qualification }}
-					{{ member.researchT }}
-					{{ member.MasterP }}
-					{{ member.UGP }}
-					{{ member.description | markdownify }}
+					{% if member.qualification %}
+						{{ member.qualification }}
+					{% endif %}
+					{% if member.researchT %}
+						{{ member.researchT }}
+					{% endif %}
+					{% if member.MasterP %}
+						{{ member.MasterP }}
+					{% endif %}
+					{% if member.UGP %}
+						{{ member.UGP }}
+					{% endif %}
+					{% if member.description %}
+						{{ member.description | markdownify }}
+					{% endif %}
+
 
 					<ul class="list-inline">
 						{% if member.orcid %}
@@ -353,11 +395,22 @@ description: Template for team page.
 					<small class="text-muted">| {{ member.duration }}</small>
 				</h5>
 
-				{{ member.qualification }}
-				{{ member.researchT }}
-				{{ member.MasterP }}
-				{{ member.UGP }}
-				{{ member.description | markdownify }}
+				{% if member.qualification %}
+						{{ member.qualification }}
+				{% endif %}
+				{% if member.researchT %}
+					{{ member.researchT }}
+				{% endif %}
+				{% if member.MasterP %}
+					{{ member.MasterP }}
+				{% endif %}
+				{% if member.UGP %}
+					{{ member.UGP }}
+				{% endif %}
+				{% if member.description %}
+					{{ member.description | markdownify }}
+				{% endif %}
+
 
 				<ul class="list-inline">
 					{% if member.orcid %}
