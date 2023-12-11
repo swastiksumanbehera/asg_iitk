@@ -48,23 +48,23 @@ description: Template for team page.
 						{{ member.name }}
 						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
-
-					{% if member.qualification %}
-						{{ member.qualification }}
-					{% endif %}
-					{% if member.researchT %}
-						{{ member.researchT }}
-					{% endif %}
-					{% if member.MasterP %}
-						{{ member.MasterP }}
-					{% endif %}
-					{% if member.UGP %}
-						{{ member.UGP }}
-					{% endif %}
-					{% if member.description %}
-						{{ member.description | markdownify }}
-					{% endif %}
-
+					<body>
+						{% if member.qualification %}
+							{{ member.qualification }}
+						{% endif %}
+						{% if member.researchT %}
+							{{ member.researchT }}
+						{% endif %}
+						{% if member.MasterP %}
+							{{ member.MasterP }}
+						{% endif %}
+						{% if member.UGP %}
+							{{ member.UGP }}
+						{% endif %}
+						{% if member.description %}
+							{{ member.description | markdownify }}
+						{% endif %}
+					</body>
 					<ul class="list-inline">
 						{% if member.orcid %}
 							<li class="list-inline-item">
