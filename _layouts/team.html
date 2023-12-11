@@ -49,17 +49,9 @@ description: Template for team page.
 						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 					<body>
-						{% if member.qualification %}
-							{{ member.qualification }}
-						{% endif %}
+						{{ member.qualification }}
 						{% if member.researchT %}
-							{{ member.researchT }}
-						{% endif %}
-						{% if member.MasterP %}
-							{{ member.MasterP }}
-						{% endif %}
-						{% if member.UGP %}
-							{{ member.UGP }}
+							{{ member.researchT | markdownify }}
 						{% endif %}
 						{% if member.description %}
 							{{ member.description | markdownify }}
@@ -140,12 +132,6 @@ description: Template for team page.
 						{% if member.researchT %}
 							{{ member.researchT | markdownify }}
 						{% endif %}
-						{% if member.MasterP %}
-							{{ member.MasterP | markdownify }}
-						{% endif %}
-						{% if member.UGP %}
-							{{ member.UGP | markdownify }}
-						{% endif %}
 						{% if member.description %}
 							{{ member.description | markdownify }}
 						{% endif %}
@@ -222,17 +208,9 @@ description: Template for team page.
 					</h5>
 
 					<body>
-						{% if member.qualification %}
-							{{ member.qualification }}
-						{% endif %}
+						{{ member.qualification }}
 						{% if member.researchT %}
-							{{ member.researchT }}
-						{% endif %}
-						{% if member.MasterP %}
-							{{ member.MasterP }}
-						{% endif %}
-						{% if member.UGP %}
-							{{ member.UGP }}
+							{{ member.researchT | markdownify }}
 						{% endif %}
 						{% if member.description %}
 							{{ member.description | markdownify }}
@@ -311,17 +289,9 @@ description: Template for team page.
 					</h5>
 
 					<body>
-						{% if member.qualification %}
-							{{ member.qualification }}
-						{% endif %}
+						{{ member.qualification }}
 						{% if member.researchT %}
-							{{ member.researchT }}
-						{% endif %}
-						{% if member.MasterP %}
-							{{ member.MasterP }}
-						{% endif %}
-						{% if member.UGP %}
-							{{ member.UGP }}
+							{{ member.researchT | markdownify }}
 						{% endif %}
 						{% if member.description %}
 							{{ member.description | markdownify }}
@@ -399,17 +369,9 @@ description: Template for team page.
 				</h5>
 
 				<body>
-					{% if member.qualification %}
-						{{ member.qualification }}
-					{% endif %}
+					{{ member.qualification }}
 					{% if member.researchT %}
-						{{ member.researchT }}
-					{% endif %}
-					{% if member.MasterP %}
-						{{ member.MasterP }}
-					{% endif %}
-					{% if member.UGP %}
-						{{ member.UGP }}
+						{{ member.researchT | markdownify }}
 					{% endif %}
 					{% if member.description %}
 						{{ member.description | markdownify }}
