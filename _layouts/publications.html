@@ -33,7 +33,7 @@ description: Template for publications page.
 	{% if member.status == "peerrev" %}
 		<div class="d-flex team-member">
 			<div class="flex-shrink-0 me-3">
-				{% if member.number %}
+				{% member.number %}
 			</div>
 			<div>
 				{{ member.details }}
