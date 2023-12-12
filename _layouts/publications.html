@@ -31,16 +31,10 @@ description: Template for publications page.
 </article>
 {% for member in publications %}
 	{% if member.status == "peerrev" %}
-		<div class="d-flex team-member">
-			<div class="flex-shrink-0 me-3">
-				{% member.number %}
-			</div>
-			<div>
-				{{ member.details }}
-				{% if member.doi %}
-					<a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
-				{% endif %}
-			</div>
-		</div>	
+		{% member.number %}
+		{{ member.details }}
+		{% if member.doi %}
+			<a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
+		{% endif %}	
 	{% endif %}
 {% endfor %}
