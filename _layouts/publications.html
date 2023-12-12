@@ -34,7 +34,7 @@ description: Template for publications page.
 		{{ member.number }}
 		{{ member.details }}
 		{% if member.doi %}
-			<a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
+			<a href="https://doi.org/{{ member.doi }}">DOI:{{ member.doi}} </a>
 		{% endif %}	
 	{% endif %}
 {% endfor %}
