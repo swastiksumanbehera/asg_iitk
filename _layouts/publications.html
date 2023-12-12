@@ -32,7 +32,10 @@ description: Template for publications page.
 {% for member in publications %}
 	{% if member.status == "peerrev" %}
 		{{ member.number }}
-		{{ member.details }}
+		{{ member.authors }}
+		({{ member.year }}).
+		{{ member.name }}.
+		{{ member.publishing }}.
 		{% if member.doi %}
 			DOI: <a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
 		{% endif %}	
