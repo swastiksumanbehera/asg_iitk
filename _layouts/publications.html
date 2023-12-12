@@ -31,7 +31,7 @@ description: Template for publications page.
 </article>
 {% for member in publications %}
 	{% if member.status == "peerrev" %}
-		{% member.number %}
+		{{ member.number }}
 		{{ member.details }}
 		{% if member.doi %}
 			<a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
