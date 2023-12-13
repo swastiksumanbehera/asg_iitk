@@ -39,6 +39,7 @@ description: Template for publications page.
 		<strong><i>{{ member.publishing }}</i></strong>.
 		{% if member.doi %}
 			DOI: <a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
-		{% endif %}	
+		{% endif %}
+		<a href="http://citations.springer.com/item?doi=10.1038/s41561-023-01246-8" data-track="click" data-track-action="view citations" data-track-label="link" data-track-category="metrics">CrossRef</a>
 	{% endif %}
 {% endfor %}
