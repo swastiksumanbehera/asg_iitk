@@ -33,7 +33,7 @@ description: Template for publications page.
 	{% if member.status == "peerrev" %}
 		{{ member.number }}
 		{{% for author in member.authors %}}
-			{{ author.n }}
+			{{ author }}
 		{{% endfor %}}
 		({{ member.year }}).
 		{{ member.name }}.
