@@ -130,7 +130,7 @@ description: Template for team page.
 				<div>
 					<h5 id="{{ member.name | strip | url_encode }}">
 						{{% if member.personal %}}
-							<a href="member.personal" >{{ member.name }} </a>
+							<a href=member.personal >{{ member.name }} </a>
 						{{% else %}}
 							{{ member.name }}
 						{{% endif %}}
