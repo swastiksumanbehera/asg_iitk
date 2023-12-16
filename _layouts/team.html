@@ -129,11 +129,11 @@ description: Template for team page.
 				</div>
 				<div>
 					<h5 id="{{ member.name | strip | url_encode }}">
-						{{% if member.personal %}}
+						{% if member.personal %}
 							<a href="https://{{ member.personal }}" target="_blank"> {{ member.name }} </a>
-						{{% else %}}
+						{% else %}
 							{{ member.name }}
-						{{% endif %}}
+						{% endif %}
 						<small class="text-muted">| {{ member.duration }}</small>
 					</h5>
 
