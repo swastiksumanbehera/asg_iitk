@@ -38,7 +38,7 @@ description: Template for publications page.
 		{{ member.name }}.
 		<strong><i>{{ member.publishing }}</i></strong>.
 		{% if member.doi %}
-			DOI: <a href="https://doi.org/{{ member.doi }}">{{ member.doi}} </a>
+			DOI: <a href="https://doi.org/{{ member.doi }}" target="_blank">{{ member.doi}} </a>
 		{% endif %}
 	{% endif %}
 {% endfor %}
