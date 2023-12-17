@@ -140,8 +140,11 @@
 - name: Mr. Rajit Das
   status: current
   role: Master
+  qualification: BS-MS (ongoing), IIT Kanpur
+  linkedin: rajit-das-02b4271a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   duration: Since 2023 (MS thesis), 2022 (UG Project)
-  #image:
+  description: I am currently working with Hydrocode simulations to study the efficacy of traditional strain estimation methods in a low shock event. <br> I also play music with a keen interest in jazz fusion.
+  image: assets/theme/images/RajitD.jpg
   researchT: >
     MS thesis: Strain quantification in weakly shocked Taunus quartzite.
   
