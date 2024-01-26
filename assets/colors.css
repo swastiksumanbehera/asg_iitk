@@ -1,0 +1,41 @@
+/*fonts*/
+.header-font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.secheader-font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.normal-text-header{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 18px;
+}
+
+.normal-text{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 16px;
+}
+
+.nav-link{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:#0000ff;
+}
+/*Colors and theme*/
+.primary-theme{
+    color: white;
+    background-color: #0000ff;
+}
+
+.primary-atn{
+    color:#0000ff;
+    background-color: white;
+}
+
+.navbar{
+    border-color:#0000ff;
+}
