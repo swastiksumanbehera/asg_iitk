@@ -23,19 +23,19 @@
 .nav-link{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    color:#0000ff;
+    color:#00876c;
 }
 /*Colors and theme*/
 .primary-theme{
     color: white;
-    background-color: #0000ff;
+    background-color: #00876c;
 }
 
 .primary-atn{
-    color:#0000ff;
+    color:#00876c;
     background-color: white;
 }
 
 .navbar{
-    border-color:#0000ff;
+    border-color:#00876c;
 }
