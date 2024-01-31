@@ -39,3 +39,12 @@
 .navbar{
     border-color:#00876c;
 }
+
+.team-boxes{
+    box-shadow: 10px 10px 5px lightgrey;
+}
+
+.publication-elements{
+    text-indent: -50px;
+    padding-left: 50px;
+}
