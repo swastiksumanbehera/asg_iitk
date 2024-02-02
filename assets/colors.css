@@ -45,6 +45,8 @@
 }
 
 .publication-elements{
-    text-indent: -50px;
-    padding-left: 50px;
+    text-indent: -25px;
+    padding-left: 25px;
+    text-align: justify;
+    text-justify: inter-word;
 }
