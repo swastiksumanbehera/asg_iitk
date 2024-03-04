@@ -18,6 +18,7 @@
     font-family: 'Times New Roman', Times, serif;
     color: black;
     font-size: 16px;
+    text-align: justify;
 }
 
 .nav-link{
@@ -80,3 +81,61 @@ li{
     border-radius: 25px;
     border: 2px solid #00876c;
 }
+
+.research-image-left{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.bottom-right {
+    position: absolute;
+    right: 30px;
+  }
+
+@media screen and (max-width: 600px) {
+    .research-image-left{
+        height: 150px;
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .research-image-left{
+            height: 200px;
+            width: auto;
+    }    
+}
+
+.research-image-right{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+@media screen and (max-width: 600px) {
+    .research-image-right{
+        height: 150px;
+        width: auto;
+    }
+    .bottom-right{
+        top: 135px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .research-image-right{
+            height: 200px;
+            width: auto;
+    }
+    .bottom-right {
+        top: 185px;
+    }    
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white}
